@@ -8,18 +8,18 @@
 
 /* Esto es lo que esta arriba del menu de opciones */
 .header {
-	background : #74b9ff;
-	padding : 10px;
+	background : #566573;
+	padding : 0px;
 	font-size: 50px;
 	text-align: center;
 	text-shadow: 1px 1px 1px black;
-	box-shadow: 5px 5px 30px #00dcff;
+	box-shadow: 5px 5px 30px #83898F;
 }
 
 .img{
 	margin: 0px 10px;
 	width:auto; 
-	max-height:50px;
+	max-height:150px;
 	display: inline-block;
 }
 
