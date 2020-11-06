@@ -39,17 +39,17 @@
 	padding: 10px;
 }
 
+.footer{
+	height: 150px;
+	padding: 70px;
+	text-align: center;
+}
+
 /*Titulos*/
 .titulo{
-	background: #dff9fb;
-	width: 700px;
-	height: auto;
-	border: 1px solid black;
 	margin: auto;
 	padding: 7px;
-	font-size: 24px;
 	text-align: center;
-	display: block;
 }
 
 
